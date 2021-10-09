@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    color: #222;
+}
+
+h1, h2 {
+    font-weight: 400;
+}
+
+.box {
+    padding: 10px;
+    text-align: center;
+    background: lightskyblue;
+    border: 1px solid rgba(0, 0, 0, .4);
+    margin-right: 2px;
+    margin-bottom: 2px;
+    color: white;
+}
+
+.box_interni {
+    padding: 10px;
+    text-align: center;
+    background: lightgreen;
+    border: 1px solid rgba(0, 0, 0, .4);
+    margin-right: 2px;
+    margin-bottom: 2px;
+    color: white;
+    font-size: 12px;
+}
