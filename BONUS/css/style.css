@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+    color: #222;
+}
+
+/* UTILITIES */
+.black {
+    background-color: rgba(0, 0, 0, 0.795);
+}
+
+.grey {
+    background-color: rgba(128, 128, 128, 0.548);
+}
+
+.red {
+    background-color: rgba(240, 128, 128, 0.74);
+}
+/* FINE UTILITIES */
+
+
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.box, 
+.box_interni {
+    height: 23px;
+}
+
+.box_interni {
+    border: 0.5px solid black;
+}
+
+
